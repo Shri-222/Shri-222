@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Shreyash Chougale
+Full Stack MERN & React Native Developer
 
-<!--
-**Shri-222/Shri-222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack
+React.js
+Node.js
+MongoDB
+React Native
+TypeScript
+Express.js
+Firebase
 
-Here are some ideas to get you started:
+Experience
+Full Stack Intern – Built SaaS platform features and mobile apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+Flood Game – Live
+StudyNotion – Live
+Student Housing Finder – GitHub
+
+What I'm Currently Building
+Scalable MERN applications
+Backend systems
+Automation tools
