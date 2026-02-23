@@ -1,24 +1,18 @@
-Hi, I'm Shreyash Chougale
-Full Stack MERN & React Native Developer
+# 💫 About Me:
+Hi, I'm Shreyash Chougale<br>Full Stack (MERN) & React Native Developer<br><br>I build real-world web and mobile applications using the JavaScript ecosystem.<br>Currently focused on scalable SaaS products, performance optimization, and clean architecture.<br><br>I’m a developer focused on building production-ready applications.<br>Built SaaS and mobile app features during internship<br>Worked with React, React Native, Node.js, MongoDB<br>Fixed critical bugs and helped recover delayed sprints<br>Interested in scalable systems, APIs, and real-world products<br><br>Currently improving:<br>System design basics<br>Advanced React patterns<br>Backend architecture
 
-Tech Stack
-React.js
-Node.js
-MongoDB
-React Native
-TypeScript
-Express.js
-Firebase
 
-Experience
-Full Stack Intern – Built SaaS platform features and mobile apps.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyash-chougale-22b276318) 
 
-Projects
-Flood Game – Live
-StudyNotion – Live
-Student Housing Finder – GitHub
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shri-222&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shri-222&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shri-222&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-What I'm Currently Building
-Scalable MERN applications
-Backend systems
-Automation tools
+---
+[![](https://visitcount.itsvg.in/api?id=Shri-222&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
